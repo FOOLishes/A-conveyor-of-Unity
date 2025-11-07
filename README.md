@@ -32,7 +32,7 @@ It's a small project of a NEW Unity and C# learner.
 - [ ] Add some voice.
 - [ ] Make the alarm be trigger once not keep.
 
-##  作者
+##  Author
  **Foolist** 
  
  Project Learning Record Plan:learning Unity and C# to improve myself,and make some English friend.
