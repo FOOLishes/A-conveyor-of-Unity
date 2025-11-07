@@ -35,6 +35,6 @@ It's a small project of a NEW Unity and C# learner.
 ##  Author
  **Foolist** 
  
- Project Learning Record Plan:learning Unity and C# to improve myself,and make some English friend.
+ Project Learning Record Plan:learning Unity and C# to improve myself , and make some English friend.
  
  2025.11
